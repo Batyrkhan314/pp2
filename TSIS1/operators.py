@@ -71,3 +71,4 @@ Operator	Name	Description
 <<	Zero fill left shift	Shift left by pushing zeros in from the right and let the leftmost bits fall off
 >>	Signed right shift	Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
 '''
+#
