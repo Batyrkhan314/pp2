@@ -19,6 +19,6 @@ while running:
         y -= 20
     if pressed[pygame.K_DOWN] and y <= 455:
         y += 20
-    pygame.draw.circle(screen, (255, 0, 0), (x, y), 25)
+    pygame.draw.circle(screen, (255, 255, 0), (x, y), 25)
     clock.tick(60)
     pygame.display.flip()
